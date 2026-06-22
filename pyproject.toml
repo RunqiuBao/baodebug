@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "baodebug"  # Package name
-version = "0.1.0"          # Package version
+version = "0.2.0"          # Package version
 description = "An simple Python package for debug"
 readme = "README.md"       # Path to the README file
 license = "MIT"
